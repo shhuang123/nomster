@@ -26,3 +26,11 @@ body {
   background: image_url('stardust.png');
   box-shadow: 0px 1px 3px #2a2a2a;
 }
+
+.navbar-inverse .navbar-brand {
+  color: #FFFFFF;
+  font-family: 'Major Mono Display', monospace;
+  font-size: 32px;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display');
