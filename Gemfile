@@ -77,6 +77,12 @@ gem "font-awesome-rails"
 #devise gem
 gem 'devise'
 
+#map gem
+gem "geocoder"
+
+#store sensitive data
+gem "figaro"
+
 
 source 'https://rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.3.3'
