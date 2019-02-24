@@ -1,5 +1,5 @@
 @import "bootstrap";
-@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display');
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display|Roboto:300');
 @import "font-awesome";
 
 
@@ -36,6 +36,10 @@ body {
   color: #FFFFFF;
   font-family: 'Major Mono Display', monospace;
   font-size: 32px;
+}
+
+.nav-link {
+  font-family: 'Roboto', sans-serif;
 }
 
 .pagination {
